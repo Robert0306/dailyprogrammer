@@ -7,4 +7,5 @@ Some basic algorithms and other small scripts/code.
      Write a function that takes the name of a major scale and the solfège name of a note, and returns the corresponding note in that          scale. </li>
 <li> Challange, Digital Root.<br>
      Give a number and return the sum of the given number. example; 123 should be 1 + 2 + 3 = 6 </li>
-<li> Codewars: Binarylist, avragelist, give a int on expanded form. - small sorting algorithms, build Tower - use a simple list comparison to format list indexes to a pyramid<br>
+<li> Codewars: FindCapitals, Binarylist, avragelist, give a int on expanded form. - small sorting algorithms, build Tower: use a simple list comparison to format list indexes to a pyramid<br>
+tvRemote: count and search in 2d-array. HighestProfit: find high and low value in array.<br>

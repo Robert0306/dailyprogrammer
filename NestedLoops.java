@@ -22,8 +22,8 @@ public class NestedLoops {
   public static void stairCase(int n){
     // staircase with #
     for(int i = 0; i < n; i++){
-      for(int j = 0; j <= i; j++){
-        System.out.print("#");
+      for(int j = 0; j <= n; j++){
+        System.out.print(i<n-j?" ":"#");
       }
       System.out.println("");
     }
